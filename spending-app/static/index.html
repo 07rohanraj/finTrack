@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spending Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>Spending Dashboard</h1>
+      <p class="subtitle" id="subtitle">Loading...</p>
+    </header>
+
+    <!-- Filters -->
+    <section class="filters" id="filters">
+      <div class="filter-group">
+        <label for="fCategory">Category</label>
+        <select id="fCategory"><option value="all">All Categories</option></select>
+      </div>
+      <div class="filter-group">
+        <label for="fFrom">From</label>
+        <select id="fFrom"></select>
+      </div>
+      <div class="filter-group">
+        <label for="fTo">To</label>
+        <select id="fTo"></select>
+      </div>
+      <div class="filter-group">
+        <label for="fDayType">Day Type</label>
+        <select id="fDayType">
+          <option value="all">All Days</option>
+          <option value="weekday">Weekdays</option>
+          <option value="weekend">Weekends</option>
+        </select>
+      </div>
+      <button class="btn-reset" id="btnReset">Reset Filters</button>
+    </section>
+
+    <!-- Summary Cards -->
+    <section class="stats" id="statsRow"></section>
+
+    <!-- Charts Row 1 -->
+    <section class="chart-grid">
+      <div class="chart-card span-2">
+        <h3>Monthly Spending</h3>
+        <div class="chart-wrap"><canvas id="chartMonthly"></canvas></div>
+      </div>
+    </section>
+
+    <!-- Charts Row 2 -->
+    <section class="chart-grid">
+      <div class="chart-card">
+        <h3>By Category</h3>
+        <div class="chart-wrap square"><canvas id="chartCategory"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <h3>Top Payees</h3>
+        <div class="chart-wrap"><canvas id="chartPayees"></canvas></div>
+      </div>
+    </section>
+
+    <!-- Charts Row 3 -->
+    <section class="chart-grid">
+      <div class="chart-card">
+        <h3>Weekday vs Weekend</h3>
+        <div class="chart-wrap short"><canvas id="chartWeekend"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <h3>Hour of Day</h3>
+        <div class="chart-wrap short"><canvas id="chartHourly"></canvas></div>
+      </div>
+    </section>
+
+    <!-- Charts Row 4 -->
+    <section class="chart-grid">
+      <div class="chart-card">
+        <h3>Quarterly</h3>
+        <div class="chart-wrap short"><canvas id="chartQuarterly"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <h3>Day of Week</h3>
+        <div class="chart-wrap short"><canvas id="chartDow"></canvas></div>
+      </div>
+    </section>
+
+    <!-- Transaction Table -->
+    <section class="table-section">
+      <div class="table-header">
+        <h3>Transactions <span id="tblCount"></span></h3>
+        <div class="table-controls">
+          <input type="text" id="searchBox" placeholder="Search payee..." />
+          <select id="tblCatFilter">
+            <option value="all">All Categories</option>
+          </select>
+          <label class="toggle-label">
+            <input type="checkbox" id="tblAutoScroll" checked>
+            Auto-scroll
+          </label>
+        </div>
+      </div>
+      <div class="table-scroll" id="tableScroll">
+        <table>
+          <thead>
+            <tr>
+              <th data-col="date">Date <span class="arrow"></span></th>
+              <th data-col="time">Time <span class="arrow"></span></th>
+              <th data-col="name">Payee <span class="arrow"></span></th>
+              <th data-col="category">Category <span class="arrow"></span></th>
+              <th data-col="amount" class="num">Amount <span class="arrow"></span></th>
+            </tr>
+          </thead>
+          <tbody id="txnBody"></tbody>
+        </table>
+      </div>
+      <div class="table-footer">
+        <span id="tblInfo"></span>
+        <div class="pagination" id="pagination"></div>
+      </div>
+    </section>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,125 @@
+========================================================================
+           ACTUAL SPENDING REPORT — EXCLUDING TRANSFERS & INVESTMENTS
+           PhonePe Statement: Jun 2024 — Jul 2026
+           Account: XX6650
+========================================================================
+
+EXCLUDED FROM THIS REPORT
+------------------------------------------------------------------------
+  Personal Transfers:   Rs.    413,386  (768 txns)
+  Investment:           Rs.    204,036  (41 txns)
+  Bank Transfer:        Rs.     25,001  (2 txns)
+  TOTAL EXCLUDED:       Rs.    642,423  (811 txns)
+
+EXECUTIVE SUMMARY
+------------------------------------------------------------------------
+  Actual Money Spent:         Rs.   143,486.60
+  Total Transactions:                  1087
+  Unique Payees:                        321
+  Avg Transaction:            Rs.       132.00
+  Median Transaction:         Rs.        27.00
+  Largest Transaction:        Rs.     5,395.00
+  Avg Daily Spending:         Rs.       289.29
+  Avg Monthly Spending:       Rs.     5,518.72
+  Highest Single Day:         Rs.     5,452.00 (2026-01-09)
+
+WHERE YOUR MONEY GOES
+------------------------------------------------------------------------
+  Category                                Spent    Txns         Avg       %
+                                                                           
+  Shopping & E-Commerce            Rs.   62,911      59  Rs.   1,066   43.8%
+  Food & Dining                    Rs.   22,701     253  Rs.      90   15.8%
+  Groceries & Essentials           Rs.   20,326     265  Rs.      77   14.2%
+  Travel & Stays                   Rs.   12,386       6  Rs.   2,064    8.6%
+  Transport & Fuel                 Rs.    7,109     441  Rs.      16    5.0%
+  Credit Card Payment              Rs.    5,181       1  Rs.   5,181    3.6%
+  Subscriptions & Digital          Rs.    5,105      19  Rs.     269    3.6%
+  Mobile Recharge                  Rs.    5,035      21  Rs.     240    3.5%
+  Personal Care                    Rs.    1,800       4  Rs.     450    1.3%
+  Medical & Health                 Rs.      931      18  Rs.      52    0.6%
+                                                                           
+  TOTAL ACTUAL SPENDING            Rs.  143,487    1087  Rs.     132
+
+TOP 10 PAYEES BY AMOUNT
+------------------------------------------------------------------------
+  Rs.     8,646  (  5x)  Myntra                              [Shopping & E-Commerce]
+  Rs.     8,557  ( 10x)  Amazon India                        [Shopping & E-Commerce]
+  Rs.     7,740  (104x)  Shaadi ki biryani                   [Food & Dining]
+  Rs.     6,915  (  3x)  Anuyojya House Of Garments          [Shopping & E-Commerce]
+  Rs.     6,285  ( 88x)  SAGAYA RAJ                          [Groceries & Essentials]
+  Rs.     5,912  (  5x)  Flipkart                            [Shopping & E-Commerce]
+  Rs.     5,395  (  1x)  Amazon Flights                      [Shopping & E-Commerce]
+  Rs.     5,244  (  2x)  Amazon Pay Groceries                [Shopping & E-Commerce]
+  Rs.     5,181  (  1x)  Bill paid - Credit Card             [Credit Card Payment]
+  Rs.     5,016  ( 20x)  Jio Prepaid Recharges               [Mobile Recharge]
+
+TOP 10 MOST FREQUENT PAYEES
+------------------------------------------------------------------------
+   104x  Rs.     7,740  Shaadi ki biryani                   [Food & Dining]
+    88x  Rs.     6,285  SAGAYA RAJ                          [Groceries & Essentials]
+    38x  Rs.       342  BMTC                                [Transport & Fuel]
+    28x  Rs.     2,257  Mangalore fresh                     [Groceries & Essentials]
+    26x  Rs.       366  Nandhini Shopee No 514              [Groceries & Essentials]
+    22x  Rs.       165  BMTC BUS KA57F3132                  [Transport & Fuel]
+    20x  Rs.     5,016  Jio Prepaid Recharges               [Mobile Recharge]
+    20x  Rs.     1,700  MANGALORE FRESH                     [Groceries & Essentials]
+    18x  Rs.       156  BMTC BUS KA51AJ6386                 [Transport & Fuel]
+    18x  Rs.       127  BMTC BUS KA51AJ6385                 [Transport & Fuel]
+
+MONTHLY SPENDING BREAKDOWN
+------------------------------------------------------------------------
+  Month               Spent    Txns     Avg/Txn    Payees
+  2024-06      Rs.    2,038      18  Rs.     113        17
+  2024-07      Rs.    3,891      12  Rs.     324         6
+  2024-08      Rs.    1,827      17  Rs.     107        12
+  2024-09      Rs.      627      10  Rs.      63         7
+  2024-10      Rs.      991       9  Rs.     110         9
+  2024-11      Rs.      804      11  Rs.      73        10
+  2024-12      Rs.    3,920      18  Rs.     218        16
+  2025-01      Rs.   11,414      34  Rs.     336        25
+  2025-02      Rs.    9,755      46  Rs.     212        27
+  2025-03      Rs.    7,306      27  Rs.     271        21
+  2025-04      Rs.    1,840      41  Rs.      45        25
+  2025-05      Rs.    3,495      52  Rs.      67        36
+  2025-06      Rs.    9,379      58  Rs.     162        35
+  2025-07      Rs.    3,385      71  Rs.      48        42
+  2025-08      Rs.    2,388      42  Rs.      57        28
+  2025-09      Rs.   10,565      76  Rs.     139        55
+  2025-10      Rs.    5,082      55  Rs.      92        36
+  2025-11      Rs.    2,483      48  Rs.      52        29
+  2025-12      Rs.   14,696      54  Rs.     272        40
+  2026-01      Rs.   11,028      59  Rs.     187        32
+  2026-02      Rs.    8,658      52  Rs.     166        30
+  2026-03      Rs.   11,564      25  Rs.     463        18
+  2026-04      Rs.    3,750      76  Rs.      49        36
+  2026-05      Rs.    5,245      61  Rs.      86        18
+  2026-06      Rs.    5,119      69  Rs.      74        22
+  2026-07      Rs.    2,236      46  Rs.      49        12
+
+MONTHLY AVERAGE BY CATEGORY
+------------------------------------------------------------------------
+  Credit Card Payment              Rs.    5,181/month
+  Shopping & E-Commerce            Rs.    3,146/month
+  Travel & Stays                   Rs.    2,064/month
+  Personal Care                    Rs.      900/month
+  Food & Dining                    Rs.      873/month
+  Groceries & Essentials           Rs.      847/month
+  Mobile Recharge                  Rs.      559/month
+  Subscriptions & Digital          Rs.      365/month
+  Transport & Fuel                 Rs.      309/month
+  Medical & Health                 Rs.       66/month
+
+KEY INSIGHTS
+------------------------------------------------------------------------
+  1. Highest spending: Shopping & E-Commerce — Rs.62,911 (43.8% of actual spend)
+  2. Peak spending month: Dec 2025 — Rs.14,696
+  3. Biggest payee: Myntra — Rs.8,646
+  4. Most frequent: Shaadi ki biryani — 104 times
+  5. Daily avg: Rs.289  |  Monthly avg: Rs.5,519
+  6. Median txn: Rs.27 — most transactions are small daily payments
+  7. Top 3 categories make up 74% of all spending
+
+========================================================================
+  Report generated from TransactionStatement.md
+  Data period: Jun 01, 2024 — Jul 21, 2026
+========================================================================

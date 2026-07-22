@@ -1,0 +1,114 @@
+======================================================================
+         SPENDING ANALYSIS REPORT — DEBIT ONLY
+         PhonePe Statement: Jun 2024 — Jul 2026
+         Account: XX6650
+======================================================================
+
+EXECUTIVE SUMMARY
+----------------------------------------------------------------------
+  Total Spent:              Rs.   785,909.70
+  Total Transactions:                1898
+  Unique Payees:                      721
+  Avg Transaction:          Rs.       414.07
+  Median Transaction:       Rs.        40.00
+  Largest Transaction:      Rs.    25,000.00
+  Avg Daily Spending:       Rs.     1,265.56
+  Highest Single Day:       Rs.    44,693.00 (2025-09-22)
+
+TOP 5 SPENDING CATEGORIES
+----------------------------------------------------------------------
+  Personal Transfers               Rs.   413,386  ( 52.6%)  ####################################################
+  Investment                       Rs.   204,036  ( 26.0%)  #########################
+  Shopping & E-Commerce            Rs.    62,911  (  8.0%)  ########
+  Bank Transfer                    Rs.    25,001  (  3.2%)  ###
+  Food & Dining                    Rs.    22,701  (  2.9%)  ##
+
+CATEGORY BREAKDOWN (ALL)
+----------------------------------------------------------------------
+  Category                                Spent    Txns         Avg       %
+                                                                           
+  Personal Transfers               Rs.  413,386     768  Rs.     538   52.6%
+  Investment                       Rs.  204,036      41  Rs.   4,976   26.0%
+  Shopping & E-Commerce            Rs.   62,911      59  Rs.   1,066    8.0%
+  Bank Transfer                    Rs.   25,001       2  Rs.  12,500    3.2%
+  Food & Dining                    Rs.   22,701     253  Rs.      90    2.9%
+  Groceries & Essentials           Rs.   20,326     265  Rs.      77    2.6%
+  Travel & Stays                   Rs.   12,386       6  Rs.   2,064    1.6%
+  Transport & Fuel                 Rs.    7,109     441  Rs.      16    0.9%
+  Credit Card Payment              Rs.    5,181       1  Rs.   5,181    0.7%
+  Subscriptions & Digital          Rs.    5,105      19  Rs.     269    0.6%
+  Mobile Recharge                  Rs.    5,035      21  Rs.     240    0.6%
+  Personal Care                    Rs.    1,800       4  Rs.     450    0.2%
+  Medical & Health                 Rs.      931      18  Rs.      52    0.1%
+  TOTAL                            Rs.  785,910    1898  Rs.     414
+
+TOP 10 PAYEES BY AMOUNT
+----------------------------------------------------------------------
+  Rs.   170,406  ( 34x)  UPSTOX SECURITIES PVT LTD
+  Rs.    65,000  ( 11x)  kalluri mallikarjuna
+  Rs.    41,000  (  5x)  pbabu
+  Rs.    33,500  (  5x)  Aruna
+  Rs.    26,552  ( 19x)  Abdul Aziz
+  Rs.    25,001  (  2x)  Bank Account XXXXXXXXXXX1352
+  Rs.    24,165  (  2x)  UMA RAMCHARAN CHAUHAN
+  Rs.    23,000  (  9x)  Purti Jain
+  Rs.    22,596  ( 17x)  SRUJAN SARATHI SAMAL
+  Rs.    21,600  ( 11x)  Sumanth Peruri
+
+TOP 10 MOST FREQUENT PAYEES
+----------------------------------------------------------------------
+   104x  Rs.     7,740  Shaadi ki biryani
+    88x  Rs.     6,285  SAGAYA RAJ
+    38x  Rs.       342  BMTC
+    34x  Rs.   170,406  UPSTOX SECURITIES PVT LTD
+    28x  Rs.     2,257  Mangalore fresh
+    27x  Rs.       945  RAMAKRISHNA S
+    26x  Rs.       366  Nandhini Shopee No 514
+    22x  Rs.       165  BMTC BUS KA57F3132
+    20x  Rs.     5,016  Jio Prepaid Recharges
+    20x  Rs.     1,700  MANGALORE FRESH
+
+MONTHLY SPENDING
+----------------------------------------------------------------------
+  Month               Spent    Txns   Unique Payees
+  2024-06      Rs.   10,240      42              40
+  2024-07      Rs.   12,213      32              22
+  2024-08      Rs.   11,248      36              26
+  2024-09      Rs.    9,665      27              23
+  2024-10      Rs.   10,998      23              23
+  2024-11      Rs.   11,054      31              26
+  2024-12      Rs.   15,440      39              32
+  2025-01      Rs.   35,492      58              38
+  2025-02      Rs.   21,223      57              37
+  2025-03      Rs.   21,681      67              52
+  2025-04      Rs.   18,576      67              40
+  2025-05      Rs.   18,147      72              52
+  2025-06      Rs.   35,083      86              59
+  2025-07      Rs.   17,843      96              62
+  2025-08      Rs.   14,171      65              50
+  2025-09      Rs.   76,637     128              99
+  2025-10      Rs.   54,641     102              79
+  2025-11      Rs.   39,687      89              56
+  2025-12      Rs.   70,845     114              84
+  2026-01      Rs.   97,364     125              82
+  2026-02      Rs.   69,526      96              54
+  2026-03      Rs.   67,554      98              84
+  2026-04      Rs.   25,134     120              57
+  2026-05      Rs.    8,713      87              35
+  2026-06      Rs.    9,674      84              32
+  2026-07      Rs.    3,059      57              20
+
+KEY INSIGHTS
+----------------------------------------------------------------------
+  1. Highest spending category: Personal Transfers (52.6% of total)
+  2. Peak spending month: Jan 2026 (Rs.97,364)
+  3. Biggest payee: UPSTOX SECURITIES PVT LTD (Rs.170,406)
+  4. Most frequent payee: Shaadi ki biryani (104 times)
+  5. You spend Rs.1,266 per day on average
+  6. Median transaction is Rs.40 — mostly small daily payments
+  7. 55% of all transactions are under Rs.50
+
+======================================================================
+  Report generated from TransactionStatement.md
+  Data period: Jun 01, 2024 — Jul 21, 2026
+======================================================================
